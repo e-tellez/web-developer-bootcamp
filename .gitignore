@@ -1,0 +1,5 @@
+# directories
+img
+
+# files
+.pre-commit-config.yaml
