@@ -3,3 +3,6 @@ img
 
 # files
 .pre-commit-config.yaml
+*.jpg
+*.jpeg
+*.png
